@@ -11,8 +11,9 @@ During this project we worked on creating a platform that can host multiplayer b
 
 Our platform's goal was to make it as easy as possible for a user to create an account and start playing games with friends right away, which is why we focussed greatly on the user experience. On the same note, in order to make it appealing and easy for developers to integrate their games with our platform, we made an SDK for them to use in order to easily integrate with us while keeping ownership of their own code.
 
-Organization [link](https://github.com/bandit-games-platform)
+You can watch the platform in action [here](https://drive.google.com/file/d/1r9aVZ8N3GHZHxB3ZbMGN4kdECHUBnohC/view)!
 
+Organization [link](https://github.com/bandit-games-platform)
 
 #### Kiosk Application
 During this project we worked on creating a platform that was tasked with engaging young people in local elections and generally gathering their opinions. Our goal was to work for a real company, Tree Company and Levuur in order to create a product that closely matched their description.
@@ -23,6 +24,8 @@ Organization [link](https://github.com/kiosk-application)
 During this project we were tasked with creating a project aimed at addressing real-life challenges while making use of Arduino technology. Our goal was to boost global productivity and well-being by optimizing work and living environments.
 
 We developed a multi-sensor device to collect data, which is then displayed on our website. The site provides real-time feedback, optimal room usage recommendations, warnings, ventilation signals, and graphs illustrating data trends over time.
+
+<img src="https://github.com/user-attachments/assets/2fd3d215-5274-4bf1-9ebd-bed8ae2efa91" alt="The device internals" width="300"> <img src="https://github.com/user-attachments/assets/6b5e7259-82f7-46d7-bda2-a008681f6e5a" alt="The device externals" width="300"> 
 
 Organization [link](https://github.com/room-sense)
 
